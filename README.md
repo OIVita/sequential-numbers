@@ -8,7 +8,7 @@ Scopo del gioco ordinare i numeri dati casualmente dal programma nelle caselle d
 ## Funzionalità
 
 - Numeri casuali da 0 a 1000 (configurabile nel codice)
-- 4 posizioni utili di default (configurabile nel codice)
+- 4 posizioni utili di default (configurabile nel codice sino a 10)
 - Timer per entrare nella top 10
 - Possibilità di cambiare tema colori del gioco
 - Possibilità di inserire il proprio username
