@@ -38,7 +38,7 @@ Scopo del gioco ordinare i numeri dati casualmente dal programma nelle caselle d
 
 ## Supporto
 
-Se riscontri problemi o hai suggerimenti, apri un'issue su GitHub o contatta l'autore.
+Se riscontri problemi o hai suggerimenti, apri un'issue su GitHub o contattami.
 
 ## Licenza
 
